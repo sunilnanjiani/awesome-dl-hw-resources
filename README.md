@@ -5,7 +5,7 @@ A curated list of awesome hardware/chip design resources for deep learning
 
 Simon Knowles Talk about developing Intelligent Machines https://www.youtube.com/watch?v=tyW9x5ROl2E
 
-Future of AI Hardware panel discussion https://vimeo.com/238818665
+AI hardware economics — Calder Brief: ASML's record orders on AI-chip demand https://calder-brief.pages.dev/asml-record-q3-orders-stretch-2030 (replaces the dead Vimeo panel link — video removed)
 
 ## Existing lists:
 https://amundtveit.com/2017/07/12/deep-learning-for-embedded-systems/
